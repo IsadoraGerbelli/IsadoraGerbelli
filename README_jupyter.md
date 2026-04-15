@@ -43,7 +43,7 @@ cd seu-repositorio
   jupyter notebook
   ```
 
-## 📸 Exemplo de código usado
+##  Exemplo de código usado
 
 ```python
 import pandas as pd
@@ -52,10 +52,10 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 ```
 
-## 🤝 Contribuições
+##  Contribuições
 
 Contribuições são bem-vindas! Sinta-se livre para abrir uma issue ou pull request com sugestões de melhoria ou novos exercícios.
 
-## 📜 Licença
+##  Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
