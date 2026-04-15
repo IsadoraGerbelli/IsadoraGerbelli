@@ -1,11 +1,11 @@
 
-# 📊 Exercício de Análise de Dados com Python
+#  Exercício de Análise de Dados com Python
 
 Este projeto contém um notebook com exercícios práticos de análise de dados utilizando **Python**, com foco em **pandas**, **NumPy**, **matplotlib** e **seaborn**.
 
 O conteúdo é ideal para estudantes e iniciantes que desejam colocar em prática fundamentos da manipulação, visualização e análise exploratória de dados.
 
-## 🧰 Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - Python 3.x  
 - [Pandas](https://pandas.pydata.org/)  
@@ -13,7 +13,7 @@ O conteúdo é ideal para estudantes e iniciantes que desejam colocar em prátic
 - [Matplotlib](https://matplotlib.org/)  
 - [Seaborn](https://seaborn.pydata.org/)
 
-## 📁 Conteúdo do Notebook
+##  Conteúdo do Notebook
 
 - Importação de bibliotecas
 - Leitura e visualização de dados
@@ -21,7 +21,7 @@ O conteúdo é ideal para estudantes e iniciantes que desejam colocar em prátic
 - Geração de gráficos e insights visuais
 - Análise estatística básica
 
-## 💻 Como usar
+##  Como usar
 
 1. Clone este repositório:
 
